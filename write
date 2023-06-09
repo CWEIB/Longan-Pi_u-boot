@@ -1,0 +1,7 @@
+found DT name in SPL header: sun50i-h616-longanpi
+Stack pointers: sp_irq=0x00021400, sp=0x00053FD4
+MMU is not enabled by BROM
+=> Executing the SPL... done.
+loading image "ARM Trusted Firmware" (49265 bytes) to 0x40000000
+loading image "U-Boot (64-bit)" (580584 bytes) to 0x4a000000
+loading DTB "sun50i-h616-longanpi" (19176 bytes)
